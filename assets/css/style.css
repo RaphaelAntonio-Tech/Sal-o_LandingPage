@@ -667,7 +667,7 @@ body {
     }
 
     .title-value {
-        padding-right: 10px;
+        padding: 10px 0;
     }
 
     .hr-value {
@@ -681,7 +681,7 @@ body {
 
     /*==== SERVIÇOS CONTAINER ====*/
     .services-container {
-        height: 160vh;
+        height: 200vh;
     }
 
     .services-content {
